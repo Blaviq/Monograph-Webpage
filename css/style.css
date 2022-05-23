@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.section-padding {
+    padding: 100px 0px;
+}
+
+.block-contents span {
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #FF5E14;
+}
+
+.img-block img {
+    max-width: 100%
+}
+
+.block-contents {
+    position: relative;
+}
+
+.block-contents span {
+    margin-bottom: 5px;
+}
+
+.tab-inner-contents {
+    clear: both;
+    overflow: hidden;
+}
+
+.img-box {
+    margin-left: 6%;
+}
+
+.tab-inner-contents {
+    justify-content: space-between;
+}
+
+.tab-content-block button{
+    color: #FF5E14;
+}
+
+.learn-more {
+    margin-left: 6%;
+}
+
+#services span {
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #FF5E14;
+}
+
+#services .row {
+    width: 100%;
+    height: 100%;
+}
+
+#services .bigcard {
+    margin-bottom: 5%;
+    width: 100%;
+    height: 50vh;
+}
+
+.cards-body{
+    padding-top: 10px;
+}
+
+.service-info h4 a{
+    text-decoration: none;
+}
+
+.bigcard {
+    padding: 65px 15px 80px 15px;
+}
+
+#completed-project {
+    margin-bottom: 5%;
+}
+
+.swiper-wrapper {
+    margin-bottom: 5%;
+}
+
+.our-works-box h4 {
+    text-decoration: none;
+    color: #FF5E14;
+}
+
+#team-section span {
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #FF5E14;
+}
+
+a {
+    text-decoration: none;
+    font-weight: 600;
+    outline: none !important;
+    cursor: pointer;
+    font-size: 16px;
+    line-height: 28px;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    color: #001659;
+}
+
+.footer-cta-wrapper {
+    background-color: #FF5E14;
+    width: 80%;
+    margin-left: 10%;
+    padding-left: 5%;
+}
+
+.footer-bottom {
+    background-color: #001659;
+    width: 100%;
+}
+
+.text-ornage {
+    color: #FF5E14;
+}

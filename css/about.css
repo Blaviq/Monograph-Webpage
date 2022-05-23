@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.about-cover-bg {
+    height: 570px;
+    position: relative;
+}
+
+.bg-cover {
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-position: center;
+}
+
+.about-cover-bg .our-experience-years .year-outline h2 {
+    font-size: 115px;
+    margin-bottom: 0;
+    line-height: 1;
+}
+
+.section-title span {
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #FF5E14;
+}
+
+a {
+    text-decoration: none;
+    font-weight: 600;
+    outline: none !important;
+    cursor: pointer;
+    font-size: 16px;
+    line-height: 28px;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    color: #001659;
+}
+
+.block-contents blockquote {
+    border-left: 5px solid #FF5E14;
+    font-style: italic;
+    padding-left: 20px;
+    color: #001659;
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+blockquote {
+    margin: 0 0 1rem;
+}
+
+#team-section span {
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #FF5E14;
+}
+
+.footer-cta-wrapper {
+    background-color: #FF5E14;
+    width: 80%;
+    margin-left: 10%;
+    padding-left: 5%;
+}
+
+.footer-bottom {
+    width: 100%;
+}
